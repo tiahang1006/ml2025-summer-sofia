@@ -11,7 +11,6 @@ Interactive k-NN Regression (1D feature) using NumPy.
 - Outputs k-NN regression prediction (mean of y of k nearest neighbors by |x - X|),
   or an error message if k > N.
 
-Author: ChatGPT
 """
 
 from __future__ import annotations
